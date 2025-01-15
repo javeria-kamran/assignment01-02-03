@@ -1,6 +1,7 @@
 // src/app/contact/page.tsx
 "use client";
 
+
 const ContactPage = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-black text-white">
